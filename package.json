@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:vslack.helloWorld"
+        "*"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
